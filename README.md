@@ -33,7 +33,7 @@ The data scope comprises guest identity, booking logistics, financial metrics, a
 - Cancelled bookings had minimal impact on review scores.
 
 ## Dashboard Preview
-![Dashboard](Project_1-Dashboard.png)
+![Dashboard](Project 1-Dashboard.png)
 
 ## Tools Used
 1. Microsoft Excel
