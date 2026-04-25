@@ -54,7 +54,7 @@ interactive dashboard ready for analysis and client reporting.
 
 ## Files Included
 1. For full access to Project 1, please download the zipped file.
-2. Navigate to "Project 1 Part B_Operational Insights Dashboard" to view the final dashboard output.
+2. Navigate to "Project 1 Part B Operational Insights Dashboard" to view the final dashboard output.
 3. For optimal viewing, please set your screen to full-screen mode.
 - ![Full Project 1](Project1_Hotel_Performance_Analysis_.zip)
 - ![Project 1 Part A](Project1_PartA_Data_Integrity_Audit_&_Optimization.xlsx)
