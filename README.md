@@ -52,7 +52,8 @@ interactive dashboard ready for analysis and client reporting.
 - Apply machine learning for hotel booking predictions.
 - Utilized other dashboarding techniques outside Microsoft Excel.
 
-## Files Included 
+## Files Included
+![Full Project](Project1_Hotel_Performance_Analysis_.zip)
 
 ## Data Source
 
