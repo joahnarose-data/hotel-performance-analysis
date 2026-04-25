@@ -1,4 +1,4 @@
-# hotel-performance-analysis
+# Hotel-Performance-Analysis
 Excel dashboard analyzing hotel booking performance across major U.S. cities.
 
 ## Project Overview
