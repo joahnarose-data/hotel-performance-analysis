@@ -6,7 +6,8 @@ This project presents an end-to-end data analysis workflow using Excel, focusing
 three major U.S. cities: San Francisco, Los Angeles, and New York. This project is divided into two parts: Part A for 
 detailed data cleaning and preparation and Part B for dashboard and analysis.
 
-## Part A: Data Integrity Audit & Optimization- Standardized inconsistent date formats
+## Part A: Data Integrity Audit & Optimization
+- Standardized inconsistent date formats
 - Removed duplicate records
 - Handled missing and invalid values
 - Validated calculated fields (e.g., number of nights)
@@ -32,7 +33,7 @@ The data scope comprises guest identity, booking logistics, financial metrics, a
 - Cancelled bookings had minimal impact on review scores.
 
 ## Dashboard Preview
-![Dashboard](Project 1-Dashboard.png)
+![Dashboard](Project1-Dashboard.png)
 
 ## Tools Used
 1. Microsoft Excel
