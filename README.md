@@ -57,8 +57,8 @@ interactive dashboard ready for analysis and client reporting.
 2. Navigate to "Project 1 Part B_Operational Insights Dashboard" to view the final dashboard output.
 3. For optimal viewing, please set your screen to full-screen mode.
 - ![Full Project 1](Project1_Hotel_Performance_Analysis_.zip)
-- ![Project 1 Part A](Project1_Part_A_Data_Integrity_Audit_&_Optimization.xlsx)
-- ![Project 1 Part B](Project1_Part_B_Operational_Insights_Dashboard.xlsx)
+- ![Project 1 Part A](Project1_PartA_Data_Integrity_Audit_&_Optimization.xlsx)
+- ![Project 1 Part B](Project1_PartB_Operational_Insights_Dashboard.xlsx)
 
 ## Data Source
 - Dataset Title: Dirty Data For Cleaning
