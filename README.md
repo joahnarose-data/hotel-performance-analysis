@@ -64,7 +64,7 @@ interactive dashboard ready for analysis and client reporting.
 - Dataset Title: Dirty Data For Cleaning
 - Website: Kaggle
 - Author: Krithika
-- ![Source Link](https://www.kaggle.com/datasets/krithi96/dirty-data-for-cleaning)
+- Source Link: https://www.kaggle.com/datasets/krithi96/dirty-data-for-cleaning
 - License: CC0: Public Domain
 
 
