@@ -53,9 +53,20 @@ interactive dashboard ready for analysis and client reporting.
 - Utilized other dashboarding techniques outside Microsoft Excel.
 
 ## Files Included
-![Full Project](Project1_Hotel_Performance_Analysis_.zip)
+- For full access to Project 1, please download the zipped file.
+- Navigate to "Project 1 Part B_Operational Insights Dashboard" to view the final dashboard output.
+- For optimal viewing, please set your screen to full-screen mode.
+![Full Project 1](Project1_Hotel_Performance_Analysis_.zip)
+![Project 1 Part A](Project1_Part_A_Data_Integrity_Audit_&_Optimization.xlsx)
+![Project 1 Part B](Project1_Part_B_Operational_Insights_Dashboard.xlsx)
 
 ## Data Source
+- Dataset: Dirty Data For Cleaning
+- Website Kaggle
+- Author: Krithika
+- ![Source Link](https://www.kaggle.com/datasets/krithi96/dirty-data-for-cleaning)
+- License: CC0: Public Domain
+
 
 
 
