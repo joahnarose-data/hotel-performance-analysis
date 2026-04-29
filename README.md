@@ -60,6 +60,11 @@ interactive dashboard ready for analysis and client reporting.
 - ![Project 1 Part A](Project1_PartA_Data_Integrity_Audit_&_Optimization.xlsx)
 - ![Project 1 Part B](Project1_PartB_Operational_Insights_Dashboard.xlsx)
 
+To make the project more accessible, PDF versions of the files are also provided. These do not display the entire
+worksheet, but instead offer an overview of each sheet.
+- ![Project 1 Part A PDF Version](Project1_Part_A.pdf)
+- ![Project 1 Part B PDF Version](Project1_Part_B.pdf)
+
 ## Data Source
 - Dataset Title: Dirty Data For Cleaning
 - Website: Kaggle
